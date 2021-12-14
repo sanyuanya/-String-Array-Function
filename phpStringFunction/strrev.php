@@ -1,4 +1,5 @@
 <?php
+
 /*
  * 作用：反转字符串
  * strrev(string)
