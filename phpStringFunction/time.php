@@ -1,5 +1,7 @@
 <?php
+
 header("content-type:text/html;charset=utf8");
+
 /*
  *time()函数语法
  * 作用：返回当前时间的unix时间戳
@@ -9,5 +11,6 @@ header("content-type:text/html;charset=utf8");
  *  */
 $i = time();
 echo "当前时间".date("Y-m-d H:i:s",$i);
+
 ?>
 
